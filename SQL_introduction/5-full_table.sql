@@ -1,2 +1,2 @@
---show create frist table d
-SHOW CREATE TABLE first_table;
+-- Show create table statement
+SHOW CREATE TABLE `first_table`;
